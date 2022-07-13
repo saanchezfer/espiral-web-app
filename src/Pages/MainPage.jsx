@@ -1,5 +1,5 @@
 import React from "react";
-import AppFrame from "../Components/AppFrame/AppFrame";
+import AppFrame from "../components/AppFrame/AppFrame";
 import Typography from "@mui/material/Typography";
 import Grid from "@mui/material/Grid";
 

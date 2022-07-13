@@ -1,8 +1,8 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import WelcomePage from "./Pages/WelcomePage";
-import MainPage from "./Pages/MainPage";
-import NotFoundPage from "./Pages/NotFoundPage";
+import WelcomePage from "./pages/WelcomePage";
+import MainPage from "./pages/MainPage";
+import NotFoundPage from "./pages/NotFoundPage";
 
 const App = () => {
   return (
